@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hehe Hello scmmm PRactical
 i123
 i123
@@ -11,3 +12,6 @@ i123
 i123
 i123
 i123
+=======
+THIS IS CHANGE hehe Hello scmmm PRactical
+>>>>>>> 42a422ca56f8365070762b4051cf1688c0bb0114
